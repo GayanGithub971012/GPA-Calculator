@@ -1,0 +1,14 @@
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csprojAssemblyReference.cache
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.GenerateResource.cache
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\bin\Debug\QRCoder.dll
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form2.resources
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form3.resources
+C:\Users\Hansi\Desktop\In Class Practice Ex - VP\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.CopyComplete
